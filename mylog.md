@@ -8,7 +8,7 @@
 **Thoughts** was sheer hard work. had forgotten everything. struggled and finally what should have taken me 10 mins took 1 hour to complete
 
 **Link(s) to work**
-### Day 2: Januray 4, Wednesday
+### Day 2: January 4, Wednesday
 
 **Today's Progress**: started my portfolio page of free code camp.
 
@@ -17,7 +17,7 @@
 **Link(s) to work**
 1. [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
 
-### Day 3: Januray 5, Thursday
+### Day 3: January 5, Thursday
 
 **Today's Progress**: continued with the my portfolio page of free code camp.
 
