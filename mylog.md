@@ -15,7 +15,7 @@
 **Thoughts** spent time trying to revise bootstrap and what I have forgotten over the last 3 months. Could barely get the nav in and that too was not working at all. 
 
 **Link(s) to work**
-1. [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
 
 ### Day 3: January 5, Thursday
 
@@ -24,4 +24,13 @@
 **Thoughts** what a day! spent most of the day to figure out why the drop down was not working. Only to discover the same logic doesn't apply on code pen. How annoying. I am uploading my try files here for future reference. 
 
 **Link(s) to work**
-1. [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+
+### Day 4: January 6, Friday
+
+**Today's Progress**: continued with the my portfolio page of free code camp got the menu to work and layout. 
+
+**Thoughts** After 3 days of horrible experiences, today felt like a walk in the park, everything made sense and just worked. Got the menu to work and the layout is almost done.
+
+**Link(s) to work**
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
