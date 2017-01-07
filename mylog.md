@@ -34,3 +34,12 @@
 
 **Link(s) to work**
 [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+
+### Day 5: January 7, Saturday
+
+**Today's Progress**: continued with the my portfolio page of free code camp. more progress on content and layout 
+
+**Thoughts** Really slow speed. I feel last 5 days of work could have been done in about 1 hour tops, but as I am new I will not let this demoralize me into giving this up all together. 
+
+**Link(s) to work**
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
