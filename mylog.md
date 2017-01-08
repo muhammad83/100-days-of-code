@@ -44,7 +44,7 @@
 **Link(s) to work**
 [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
 
-### Day 6: January 8, Saturday
+### Day 6: January 8, Sunday
 
 **Today's Progress**: continued with the my portfolio page of free code camp. completed the contact part and made the site reactive 
 
