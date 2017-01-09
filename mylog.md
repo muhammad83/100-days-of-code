@@ -52,3 +52,12 @@
 
 **Link(s) to work**
 [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+
+### Day 7: January 9, Monday
+
+**Today's Progress**: continued with the my portfolio page of free code camp. fixed the menu selection and highlighting the sections when going up or down
+
+**Thoughts** So I think I am done. Just need to make it work on mobile which the sample site doesn't seem to be working either. also need to add the animation scroll. Good day I would say even though the progress is still slow but I am learning a lot.
+
+**Link(s) to work**
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
