@@ -61,3 +61,12 @@
 
 **Link(s) to work**
 [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+
+### Day 8: January 10, Tuesday
+
+**Today's Progress**: continued with the my portfolio page of free code camp. Added the animated scrolling using javascript
+
+**Thoughts** Got the javascript scrolling to work in about 10 15 mins spent the remaining time trying to figure out why the menu is not working on mobile, tried gitter messenger for help but no joy. Will try and figure this out tomorrow
+
+**Link(s) to work**
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
