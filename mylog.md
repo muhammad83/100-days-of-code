@@ -70,3 +70,12 @@
 
 **Link(s) to work**
 [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+
+### Day 9: January 11, Wednesday
+
+**Today's Progress**: finished the personal portfolio website for freecodecamp. Also did some basic javascript. 
+
+**Thoughts** turns out wasted the last 2 days for nothing, the problem is with codepen, I hosted the same code on a server and it works fine the only thing that doesn't work is the fixed nav on the top. Also did basic java script.
+
+**Link(s) to work**
+[My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
