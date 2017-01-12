@@ -79,3 +79,12 @@
 
 **Link(s) to work**
 [My portfolio page](http://codepen.io/muhammadqureshi/pen/ggbawX)
+
+### Day 10: January 12, Thursday
+
+**Today's Progress**: started with the free code camp javascript tutorial and made a simple page to paratice those functions. 
+
+**Thoughts** its much much harder than i thought it will be to set up a html page which calls all the javascript functions. Still struggling with the call process, tomorrow is a new day so maybe tomorrow.
+
+**Link(s) to work**
+[Javascript paractice page](https://github.com/muhammad83/javascript)
